@@ -1,24 +1,23 @@
 ![Header](https://github.com/LightBringer02/LightBringer02/blob/main/LInkedIn%20Background.png)
 
-<h1 align="center">Hi 👋, I'm Yashpal Singh</h1>
-<h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Manan Dixit</h1>
+<h3 align="center">A passionate AIML Engineer and Data Analyst</h3>
 
 <img align="right" width="250" height="150" alt="profile" src="https://github.com/user-attachments/assets/e89cb9bd-298d-4883-afdf-643a09054165" />
 
 ---
 
 ## 🌱 About Me
-- 🌟 I’m currently learning *Express.js*
-- 💻 All of my projects are available at [Linktree](https://linktr.ee/yashs00n)
-- 💬 Ask me about *Django, Python, C++, Java*
-- 📫 How to reach me: *yashpalsingh0746@gmail.com*
-- 📄 Know about my experiences: [Resume](https://github.com/Yashs00n/Resume/blob/main/Yashpal_singh_Resume.pdf)
+- 🌟 I’m currently learning *Deep Learning*
+- 💬 Ask me about *Machine Learning, Python, Data Science, Praject Management*
+- 📫 How to reach me: *mannpandit02@gmail.com*
+- 📄 Know about my experiences: [Resume](https://github.com/LightBringer02/Resume/blob/main/Manan%20Dixit%20Resume.pdf)
 
 ---
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/yashpalsingh0746/" target="_blank">
+<a href="https://www.linkedin.com/in/manan-dixit/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
@@ -47,17 +46,6 @@
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
 </p>
-
----
-
-
-
----
-
-## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashs00n&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashs00n&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashs00n&" alt="GitHub Streak" /></p>
 
 ---
 
