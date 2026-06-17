@@ -1,4 +1,4 @@
-![Header]([Manan Dixit.png](https://github.com/LightBringer02/LightBringer02/blob/main/Manan%20Dixit.png))
+![Header]((https://github.com/LightBringer02/LightBringer02/blob/main/Manan%20Dixit.png))
 
 <h1 align="center">Hi 👋, I'm Manan Dixit</h1>
 <h3 align="center">A passionate AIML Engineer and Data Analyst</h3>
